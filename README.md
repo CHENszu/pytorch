@@ -1,2 +1,2 @@
 # Test
-我将我一年以来科研代码所有遇到的问题及如何解决的方式放在这里（主要是针对python中的pytorch框架，希望对你有用）
+Here I have placed all the problems I encountered in my research code over the past year and the ways to solve them (mainly for the pytorch framework in python, hoping it will be useful to you). If you have any questions, please feel free to contact me at any time.
